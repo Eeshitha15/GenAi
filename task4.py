@@ -1,6 +1,5 @@
 import requests
 
-# Replace with your OpenWeatherMap API key
 WEATHER_API_KEY = 'adbc5212e8b30c4074d77dc6fa989975'
 
 def get_weather_data(endpoint, params):
